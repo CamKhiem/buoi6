@@ -1,0 +1,21 @@
+F:\LT Mang\Buoi5\Buoi2\Client\bin\Debug\Client.exe.config
+F:\LT Mang\Buoi5\Buoi2\Client\bin\Debug\Client.exe
+F:\LT Mang\Buoi5\Buoi2\Client\bin\Debug\Client.pdb
+F:\LT Mang\Buoi5\Buoi2\Client\obj\Debug\Client.Form1.resources
+F:\LT Mang\Buoi5\Buoi2\Client\obj\Debug\Client.Properties.Resources.resources
+F:\LT Mang\Buoi5\Buoi2\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+F:\LT Mang\Buoi5\Buoi2\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+F:\LT Mang\Buoi5\Buoi2\Client\obj\Debug\Client.exe
+F:\LT Mang\Buoi5\Buoi2\Client\obj\Debug\Client.pdb
+H:\LT Mang\Buoi5\Buoi2\Client\bin\Debug\Client.exe.config
+H:\LT Mang\Buoi5\Buoi2\Client\bin\Debug\Client.exe
+H:\LT Mang\Buoi5\Buoi2\Client\bin\Debug\Client.pdb
+H:\LT Mang\Buoi5\Buoi2\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+H:\LT Mang\Buoi5\Buoi2\Client\obj\Debug\Client.Form1.resources
+H:\LT Mang\Buoi5\Buoi2\Client\obj\Debug\Client.Properties.Resources.resources
+H:\LT Mang\Buoi5\Buoi2\Client\obj\Debug\Client.csproj.GenerateResource.cache
+H:\LT Mang\Buoi5\Buoi2\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+H:\LT Mang\Buoi5\Buoi2\Client\obj\Debug\Client.exe
+H:\LT Mang\Buoi5\Buoi2\Client\obj\Debug\Client.pdb
+D:\ThucHanh\Buoi6\Client\bin\Debug\Client.exe.config
+D:\ThucHanh\Buoi6\Client\obj\Debug\Client.pdb
